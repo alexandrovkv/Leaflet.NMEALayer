@@ -180,7 +180,7 @@ var FileLoader = L.Layer.extend({
 L.Control.NmeaLayer = L.Control.extend({
     statics: {
         TITLE:  'Load NMEA file (NMEA, LOG, TXT)',
-        LABEL:  '&text.document;' //&#8965;
+        LABEL:  '&#8965;'
     },
     options: {
         position:   'topleft',
