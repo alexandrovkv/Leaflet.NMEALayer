@@ -9,4 +9,4 @@ See [index.html](./index.html) ans [app.js](./app.js)
 ## Dependencies
 leaflet 1.*
 ## Limitations
-Currently only sentences with NAVSTAR GPS talker ID supported
+Currently only sentences with NAVSTAR GPS talker ID is supported
